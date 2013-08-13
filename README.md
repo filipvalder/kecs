@@ -7,6 +7,7 @@ kecs
     
     "Pošli mi to mailem."
     
+    "Měj se!"
 
 unyabalized
 ===========
