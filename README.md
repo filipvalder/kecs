@@ -3,12 +3,12 @@ kecs
 
     Nejsou zde žádné otrokářské praktiky!
 
-cemetery
-========
+unyabalized
+===========
 
  + St: Nezvládl to...
  + Ho: Byl na peníze a chtěl o všem rozhodovat.
- + Lu: Dělal hovno a vyhrožoval.
+ + Lu: Dělal ho*no a vyhrožoval.
  + Mi: Nechal si napsat odměny a odešel.
  + Da: Bylo mu to malé.
  + Fi: Nepodíval se na to jinýma očima.
