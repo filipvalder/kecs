@@ -4,6 +4,9 @@ kecs
     "Nejsou zde žádné otrokářské praktiky!"
 
     "Ty to prostě uděláš!"
+    
+    "Pošli mi to mailem."
+    
 
 unyabalized
 ===========
