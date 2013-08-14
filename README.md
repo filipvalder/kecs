@@ -10,7 +10,7 @@ kecs
     "Měj se!"
 
 unyabalized
-===========
+-----------
 
  + **St:** Nezvládl to...
  + **Ho:** Byl na peníze a chtěl o všem rozhodovat.
