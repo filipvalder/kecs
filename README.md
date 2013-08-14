@@ -8,6 +8,8 @@ kecs
     "Pošli mi to mailem."
     
     "Měj se."
+    
+    "Já jsem vedení!"
 
 unyabalized
 -----------
